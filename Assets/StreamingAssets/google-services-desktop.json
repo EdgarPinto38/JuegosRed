@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651533211080",
+    "project_id": "fir-test-1a2e4",
+    "storage_bucket": "fir-test-1a2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651533211080:android:2ffe2835b6eafb27ec5cfd",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.JuegoFB1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVT2lMckPs9qaIUXkCHLyPls66Vax9aSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
